@@ -1,0 +1,8 @@
+Notable Sources:
+- https://docs.scrapy.org/
+- https://www.pygame.org/docs/
+- https://www.w3schools.com/cssref/css_selectors.asp
+- https://medium.com/@robertodieguez/web-scraping-how-to-extract-the-whole-pokedex-with-python-d0a1b43ba385
+- https://github.com/RobertoDieguez/Pokedex/blob/d6a8b6203d55b6de62f6a0008ecb8ee5dd3cd2c2/pokedex/spiders/pokedex_spider.py#L2
+
+- https://pokemondb.net/pokedex
